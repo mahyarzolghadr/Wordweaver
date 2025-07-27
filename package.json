@@ -1,0 +1,26 @@
+{
+  "name": "keymancer",
+  "version": "1.0.0",
+  "description": "A CLI spellbook that weaves personal words into password wordlists",
+  "main": "wordweaver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahyarzolghadr/Wordweaver.git"
+  },
+  "keywords": [
+    "password", 
+    "wordlist", 
+    "security", 
+    "cli", 
+    "generator"
+  ],
+  "author": "Mahyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahyarzolghadr/Wordweaver/issues"
+  },
+  "homepage": "https://github.com/mahyarzolghadr/Wordweaver#readme"
+}
