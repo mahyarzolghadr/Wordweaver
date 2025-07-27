@@ -3,7 +3,7 @@
 > **A CLI spellbook that weaves personal words into powerful password wordlists.**  
 > Perfect for security testing, pentesting, or learning Node.js.
 
-![CLI Example](https://via.placeholder.com/700x300?text=Wordweaver+CLI+Example "Wordweaver in action")
+
 
 ---
 
