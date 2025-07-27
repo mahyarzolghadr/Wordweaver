@@ -4,7 +4,6 @@
 > Perfect for security testing, pentesting, or learning Node.js.
 
 ![CLI Example](https://via.placeholder.com/700x300?text=Wordweaver+CLI+Example "Wordweaver in action")
-> *(Screenshot idea: Terminal showing prompts and generated output)*
 
 ---
 
